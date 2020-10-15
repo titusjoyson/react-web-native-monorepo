@@ -1,0 +1,1 @@
+https://www.vairix.com/tech-blog/monorepo-share-library-with-cra-react-native-with-lerna-101
